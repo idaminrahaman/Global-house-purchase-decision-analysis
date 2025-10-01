@@ -9,7 +9,7 @@ Key steps include feature engineering, exploratory data analysis (EDA), and visu
   (Bank of Finland for most currencies, Exchange-Rates.org for JPY & AED).  
 
 ## ⚙️ Tech Stack
-Python (Pandas, NumPy, Matplotlib) in Jupyter Notebook.  
+Python (Pandas, NumPy, Matplotlib,Seaborn) in Jupyter Notebook.  
 
 ---
 
